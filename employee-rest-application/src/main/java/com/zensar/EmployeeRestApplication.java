@@ -8,6 +8,9 @@ public class EmployeeRestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeRestApplication.class, args);
+	 
+		System.out.println("Anjali");
 	}
+	
 
 }
